@@ -1,4 +1,4 @@
-# le_sig
+# LarissaEggers
 ### My personal repository
 # About me
 Researcher at Significance
